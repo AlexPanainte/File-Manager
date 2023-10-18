@@ -11,3 +11,6 @@ Key Features:
 - Flexibility to select the categories of files you want to organize.
 - Easy file handling based on their types.
 - Support for a variety of file formats and extensions.
+
+  
+![Screenshot (6)](https://github.com/AlexPanainte/File-Manager/assets/126809877/8081cfdc-8ac6-4d8a-a50f-836ac56ffb3b)
